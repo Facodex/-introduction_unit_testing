@@ -1,0 +1,7 @@
+1- CREAR UN TEST QUE FALLE (RED)
+2- LO "MIMIMO NECESARIO" (GREEN)
+3- REFACTORS, mejorar lo que ya existe (clean code, code smells, etc);
+
+Desarrollo guiado por pruebas de software, o Test-driven development es una práctica de ingeniería de software que involucra otras dos prácticas:
+Escribir las pruebas primero y Refactorización. Para escribir las pruebas generalmente se utilizan las pruebas unitarias.
+CONCLUSION: primero escribir los test y a partir de eso ir desarrollando las funcionalidades que pasen esos tests.
